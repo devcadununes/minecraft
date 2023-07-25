@@ -1,0 +1,8 @@
+panda3d==1.10.13
+panda3d-gltf==0.14
+panda3d-simplepbr==0.10
+Pillow==10.0.0
+pyperclip==1.8.2
+six==1.16.0
+ursina==5.2.0
+xlib==0.21
